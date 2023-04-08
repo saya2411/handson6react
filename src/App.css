@@ -1,0 +1,121 @@
+body{
+  background-image: linear-gradient(rgb(163, 241, 250),rgb(245, 179, 234));
+  height: 100vh;
+}
+.App {
+  text-align: left;
+  font-size: 13px;
+}
+
+.center{
+  margin-left: 676px;
+}
+.rightside{
+  margin-left: 628px;
+  height: 47px;
+  background: blue;
+  color: white;
+  font-weight: 800;
+  border-radius: 7px;
+}
+.table{
+  height: 514px;
+  width: 1154px;
+  margin-left: -498px;
+  font-size: 33px;
+  margin-top: 4%;
+  background-color: white;
+  border-collapse: collapse;
+  border: 1px solid white;
+  text-align: center;
+}
+
+.top1{
+  margin-left: 233px;
+  margin-top: 6%;
+  height: 50px;
+  width: 19%;
+  background-color: transparent;
+  border: 1px solid black;
+  font-size: 33px;
+}
+.age{
+  margin-left: 233px;
+  margin-top: 4%;
+  height: 0px;
+  font-size: 50px;
+}
+.top2{
+  margin-left:418px;
+  margin-top: 6%;
+  height: 50px;
+  width: 19%;
+  background-color: transparent;
+  border: 1px solid black;
+font-size: 33px;
+
+}
+.course{
+  margin-left: 233px;
+  margin-top: 4%;
+  height: 0px;
+  font-size: 50px;
+}
+.bottom1{
+  margin-left: 233px;
+  margin-top: 6%;
+  height: 50px;
+  width: 19%;
+  background-color: transparent;
+  border: 1px solid black;
+font-size: 33px;
+
+}
+.batch{
+  margin-left: 233px;
+  margin-top: 4%;
+  height: 0px;
+  font-size: 50px;
+}
+input[type=text]:focus{
+  outline: 1px solid blue; 
+}
+input[type=number]:focus{
+  outline: 1px solid blue; 
+}
+.bottom2{
+  margin-left:418px;
+  margin-top: 6%;
+  height: 50px;
+  width: 19%;
+  background-color: transparent;
+  border: 1px solid black;
+  font-size: 33px;
+}
+.update{
+  margin-left: 580px;
+  margin-top: 6%;
+  height: 70px;
+  width: 19%;
+  background-color: white;
+  border: 2px solid black;
+  font-size: 33px;
+  border-radius: 20px;
+}
+.update:hover{
+  background-color: rgb(164, 162, 162);
+}
+.cancel{
+  margin-left: 138px;
+  margin-top: 6%;
+  height: 70px;
+  width: 19%;
+  background-color: white;
+  border: 2px solid black;
+  font-size: 33px;
+  border-radius: 20px;
+}
+.cancel:hover{
+  background-color: rgb(164, 162, 162);
+}
+
